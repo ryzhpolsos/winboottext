@@ -9,7 +9,7 @@ WinBootText is a tiny utility for Windows to display custom text on the boot scr
 </details>
 
 ## Installation
-1. Go to [releases page](https://github.com/winboottext/releases) and download `winboottext.zip` file from the latest release
+1. Go to [releases page](https://github.com/ryzhpolsos/winboottext/releases) and download `winboottext.zip` file from the latest release
 2. Extract the archive to any folder
 3. Run `install.bat` as administrator
 4. Reboot the system. If the installation was successful, you will see "Hello from winboottext!" on the boot screen.
