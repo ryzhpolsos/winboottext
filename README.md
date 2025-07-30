@@ -23,7 +23,7 @@ WinBootText is a tiny utility for Windows to display custom text on the boot scr
 
 ## Building
 1. Make sure you have Visual Studio and Git installed
-2. Open "x64 Native Tools Command Prompt for VS <version>" from the start menu and navigate to the folder where you want to place winboottext
+2. Open "x64 Native Tools Command Prompt for VS _&lt;version&gt;_" from the start menu and navigate to the folder where you want to place winboottext
 3. Clone the repository: `git clone https://github.com/ryzhpolsos/winboottext`
 4. Install all dependencies and run first build: `build /d`
 5. Use `build` to re-build winboottext without dependency installation.
